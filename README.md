@@ -1,4 +1,4 @@
-# DevRoom-Application
+# DevRoom-Configurator-Application
 
 https://user-images.githubusercontent.com/65062119/196518268-52970a2b-b06b-4559-b178-3571af43ba41.mp4
 
